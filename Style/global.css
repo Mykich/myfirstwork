@@ -1,0 +1,45 @@
+:root{
+    --color-primary: #6C38CC;
+    --color-primary-hover: #5b2bb2;
+    --color-bg:#16171D;
+    --color-bg-light: #2E2D3D;
+    --color-bg-madium: #1E1F29;
+    --color-li:#FAFAFA;
+    --color-li-hover:#afb2bf;
+    --color-strok:#4D5064;
+    --color-bg-footer:#101114;
+    --color-sacondary:#e47ad5;
+    --color-gradient:linear-gradient(93.33deg,#d77be6 9.26%,#be63e6 42.32%, #6c38cc 104.58%);
+
+
+    --border-5: 5px;
+    --border-8: 8px;
+    --border-10: 10px;
+    --Layout-widht: 1172px;
+    --margin-body:0 148px;
+    --gradient:linear-gradient(93.33deg, #D77BE6 9.26%, #BE63E6 42.32%, #6C38CC 104.58%);
+
+}
+
+*{
+    box-sizing: border-box;
+}
+
+a{
+text-decoration: none;
+}
+
+html{
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+body{
+    background: var(--color-bg);
+    font-weight: 400;
+    font-style: normal;
+    font-family: 'Fira Sans';
+    margin: 0;
+}
+
+
