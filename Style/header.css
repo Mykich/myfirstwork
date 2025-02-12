@@ -56,7 +56,7 @@
     height: 24px;
     background: none;
     border: none;
-    color: var(--color-li);
+    cursor: pointer;
 }
 
 .section_light{
